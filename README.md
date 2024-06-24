@@ -19,9 +19,6 @@ The project consists of the following files:
 ├── index.html
 └── styles.css
 
-less
-Copy code
-
 ### `index.html`
 
 The HTML file contains the structure of the landing page, including:
